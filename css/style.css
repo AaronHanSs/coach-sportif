@@ -1,0 +1,54 @@
+
+/*nav bar*/
+.navbar1{
+    margin-bottom: 0;
+}
+/*end nav bar*/
+
+/*border separation*/
+.presentation, .resultat{
+  border-bottom: solid 1px;
+  padding-bottom: 20px;
+}
+/*end border separation*/
+
+h1,h2,h5{
+  text-align: center;
+}
+
+footer{
+  display: flex;
+}
+
+ul {
+  text-align: center;
+  display: inline;
+  list-style: none;
+  color: #fff;
+}
+
+a {
+  color: #fff;
+}
+
+.liste{
+  margin-left: 35%;
+}
+
+footer{
+  background-color: #6B696E;
+}
+
+/*###############################################################################*/
+
+@media screen and (max-width: 1000px ) {
+
+  footer {
+    display: list-item;
+    }
+
+  .liste1{
+    margin-right: 20%;
+  }
+
+}
