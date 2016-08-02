@@ -39,6 +39,10 @@ footer{
   background-color: #6B696E;
 }
 
+.site{
+  color: black;
+}
+
 /*###############################################################################*/
 
 @media screen and (max-width: 1000px ) {
